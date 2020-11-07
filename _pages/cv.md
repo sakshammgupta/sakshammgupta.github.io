@@ -31,7 +31,7 @@ Projects
    * Annual international competition held at Rochester Institute of Technology; multidisciplinary in nature.
    * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
    *Led a team of 20+ students; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to computer programming.
-   [Competition](http://www.igvc.org/design/2020/1.pdf)
+   [Team Report](http://www.igvc.org/design/2020/1.pdf)
   
 Skills
 ======
