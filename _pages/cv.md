@@ -24,10 +24,15 @@ Work experience
   * Analysis of market readiness, prototype development, intellectual property strategy.
   * Developed a deeper understanding of technology transfer.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Projects
+======
+  # <ul>{% for post in site.talks %}
+ #  {% include archive-single-talk-cv.html %}
+# {% endfor %}</ul>
+* (Aug 2019 - Jun 2020) **Intelligent (Environment Aware) Autonomous Vehicle**, *for IGVC (Intelligent Ground Vehicle Competition), organized by RoboNation*
+   * Annual international competition held at Rochester Institute of Technology; multidisciplinary in nature.
+   * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
+   *Led a team of 20+ students; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to computer programming.
   
 Skills
 ======
@@ -44,11 +49,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
