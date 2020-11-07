@@ -18,10 +18,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* (June 2020 - present) Technology Commercialization Intern, *Tambourine Innovation Ventures Inc*.
+  * Internship with a focus on studying & writing research proposals.
+  * Wrote grant applications for multiple agencies, organizations & institutions.
+  * Analysis of market readiness, prototype development, intellectual property strategy.
+  * Developed a deeper understanding of technology transfer.
 
 * Fall 2015: Research Assistant
   * Github University
