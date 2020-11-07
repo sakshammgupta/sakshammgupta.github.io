@@ -27,11 +27,11 @@ Work experience
 Projects
 ======
  
-* (Aug 2019 - Jun 2020) **Intelligent (Environment Aware) Autonomous Vehicle**, *for IGVC (Intelligent Ground Vehicle Competition), organized by RoboNation*
+* (Aug 2019 - Jun 2020) **Intelligent (Environment Aware) Autonomous Vehicle**, *for IGVC (Intelligent Ground Vehicle Competition), organized by RoboNation* [Competition Link](http://www.igvc.org/) 
    * Annual international competition held at Rochester Institute of Technology; multidisciplinary in nature.
    * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
    *Led a team of 20+ students; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to computer programming.
-   [abc](https://google.com)
+   [Competition](http://www.igvc.org/design/2020/1.pdf)
   
 Skills
 ======
