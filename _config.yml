@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Saksham Gupta"
   avatar           : "profile.png"
-  bio              : "Product Developer | Discovering the future of Robotics in Med-Tech"
-  location         : "Location"
+  bio              : "Product Developer  Discovering the future of Robotics in Med-Tech"
+  location         : "Mumbai, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
