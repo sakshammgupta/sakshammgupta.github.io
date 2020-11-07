@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* (June 2020 to present) 
-  * **Technology Commercialization Intern**, *[Tambourine Innovation Ventures Inc](https://www.tivinc.com/)*.
+* June 2020 to present : **Technology Commercialization Intern** 
+  * at *[Tambourine Innovation Ventures Inc](https://www.tivinc.com/)*.
     * Internship with a focus on studying & writing research proposals.
     * Wrote grant applications for multiple agencies, organizations & institutions.
     * Analysis of market readiness, prototype development, intellectual property strategy.
