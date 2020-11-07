@@ -30,9 +30,17 @@ Projects
 * (Aug 2019 - Jun 2020) **Intelligent (Environment Aware) Autonomous Vehicle**, *for IGVC (Intelligent Ground Vehicle Competition), organized by RoboNation* [Competition Link](http://www.igvc.org/) 
    * Annual international competition held at Rochester Institute of Technology; multidisciplinary in nature.
    * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
-   *Led a team of 20+ students; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to computer programming.
+   * Led a team of 20+ students; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to computer programming.
    [Team Report](http://www.igvc.org/design/2020/1.pdf)
   
+ * **An open, easily replicable & modular design for a regenerative aqua pump**, *Final Year Undergraduate Project*
+   * Designed an open-hardware system using commercial off the shelf components (COTS); which can be easily replicated at scale.
+   * Developed a modular water pump - can be connected to any bicycle & used for generating electricity & for pumping water at the same time from a well.
+   * Achieved a low cost - high ROI (with one-time CAPEX) by designing a product with eco-friendly; readily-available & economic components.
+ 
+ 
+ 
+ 
 Skills
 ======
 * Skill 1
