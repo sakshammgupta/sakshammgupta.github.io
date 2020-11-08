@@ -43,6 +43,9 @@ Projects
  * October 2019 to February 2020: **NMIMS Robotics Testbed - 1 (NRT-1), a satellite payload**,
    * *Manufacturing Engineer*
      * project backed by *ISRO (the Indian Space Research Organization)*; under its SpaceShare program - about 8-9 applications were finalized from a pool of thousands of research proposals (which included top Indian Institutes).
+     * Designed and manufactured a test-bed for a Terfenol-D (magnetostrictive material) in space. The project deliverable is a payload; set to launch on an upcoming PSLV rocket (in Q1 2021).
+     * Lead design & manufacturing of a highly constrained payload (constrained by space, dimensions, weight & scale of components attached).
+     * Performed various regression & stress tests on the payload - thermovac, vibrations, signal encryption & attenuation in Class 1 clean rooms.
  
  
  
