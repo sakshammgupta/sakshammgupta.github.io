@@ -4,7 +4,10 @@ main:
     url: /education/
 
   - title: "Work Experience"
-    url: /work-experience/    
+    url: /work-experience/  
+    
+  - title: "Projects"
+    url: /projects/
             
   - title: "Blog Posts"
     url: /year-archive/
