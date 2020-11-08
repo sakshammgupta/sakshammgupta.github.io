@@ -39,7 +39,10 @@ Projects
      * Designed an open-hardware system using commercial off the shelf components (COTS); which can be easily replicated at scale.
      * Developed a modular water pump - can be connected to any bicycle & used for generating electricity & for pumping water at the same time from a well.
      * Achieved a low cost - high ROI (with one-time CAPEX) by designing a product with eco-friendly; readily-available & economic components.
- 
+     
+ * October 2019 to February 2020: **NMIMS Robotics Testbed - 1 (NRT-1), a satellite payload**,
+   * *Manufacturing Engineer*
+     * project backed by *ISRO (the Indian Space Research Organization)*; under its SpaceShare program - about 8-9 applications were finalized from a pool of thousands of research proposals (which included top Indian Institutes).
  
  
  
