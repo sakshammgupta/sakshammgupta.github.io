@@ -47,6 +47,13 @@ Projects
      * Lead design & manufacturing of a highly constrained payload (constrained by space, dimensions, weight & scale of components attached).
      * Performed various regression & stress tests on the payload - thermovac, vibrations, signal encryption & attenuation in Class 1 clean rooms.
  
+  * June 2017 to July 2019: **Singapore Autonomous Underwater Vehicle Challenge 2018 & 2019**,
+    * *Team Captain*
+      * Annual Robotics Challenge organized by the *IEEE OES (Oceanic Engineering Society)*.
+      * Led a team of 12 students; for designing, manufacturing & building an underwater autonomous vehicle.
+      * The team won numerous accolades - stood 4th amongst 45 international teams in 2018; stood 7th amongst 57 international teams in 2019; bagged the Social Media Prize in 2019.
+      * Designed a modular, component-based AUV system for performing a multitude of tasks - SLAM based navigation & planning; visual identification of key zones/areas in the robot vicinity; acoustics (hydrophones, DVL) based localization & performing various decommissioning tasks with the help of a 6-DOF robotic arm.
+      
  
  
 Skills
