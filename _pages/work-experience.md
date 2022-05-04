@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Feb 2021 to present : **Research Assistant** 
-  * at Indian Council of Medical Research    <div align="right"> Nd</div>
+  * at Indian Council of Medical Research    (New Delhi, India)
      * ICMR is the Indian equivalent of the US National Institute of health. ICMR has funded our research, and I am working on designing and
        * Prototyping an airway management robot under an anesthetist.
        * Designing and prototyping an airway management robot.
@@ -15,7 +15,7 @@ author_profile: true
        * Assisting the PI in the preparation of various techno-commercial reports.  
 
 * June 2020 to present : **Research Associate** 
-  * at [Tambourine Innovation Ventures Inc](https://www.tivinc.com/)    Vienna,VA,USA.
+  * at [Tambourine Innovation Ventures Inc](https://www.tivinc.com/)    (Vienna,VA,USA)
     * Tambourine Innovation Ventures (TIV) is an innovation advisory and venture acceleration firm dedicated to poverty alleviation and
 sustainable growth through technology based economic development. It works with prestigious international clients such as the World
 Bank, OECD, UNIDO, US Dept of Energy, etc. 
