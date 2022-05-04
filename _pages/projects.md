@@ -39,7 +39,6 @@ rooms.
 <img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/df2a3ebe3fbd5024a2dfd6cfd190b867dd27c6bc/files/NIS.jpg">
 
 * **Singapore Autonomous Underwater Vehicle Challenge 2018 & 2019,**
-  * Team Captain
   * Jun 2017 – Jul 2019
     * Annual Robotics Challenge organized by the IEEE OES (Oceanic Engineering Society).
       * Led a team of 12 students; for designing, manufacturing & building an underwater autonomous vehicle.
