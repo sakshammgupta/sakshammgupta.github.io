@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards"
-permalink: /projects/
+permalink: /awards/
 author_profile: true
 ---
 * **Dean's List - Student Ambassador Award**,
