@@ -11,5 +11,5 @@ author_profile: true
        * **Led a team of 20+ students**; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to
 computer programming.
        * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
-       <img src="https://github.com/sakshammgupta/sakshammgupta.github.io/blob/master/files/SAUVC_2018_1.jpg">
+       <img src="https://github.com/sakshammgupta/sakshammgupta.github.io/blob/2d77d00e395cd57f60951b0293114f41e8d72212/files/SAUVC_2018_1.jpg">
  
