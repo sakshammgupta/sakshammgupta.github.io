@@ -5,7 +5,16 @@ permalink: /work-experience/
 author_profile: true
 ---
 
-
+* Feb 2021 to present : **Research Assistant** 
+  * at Indian Council of Medical Research    <div align="right">
+  Nd
+</div>
+     * ICMR is the Indian equivalent of the US National Institute of health. ICMR has funded our research, and I am working on designing and
+       * Prototyping an airway management robot under an anesthetist.
+       * Designing and prototyping an airway management robot.
+       * Developing Hardware and Software control systems for the robot.
+       * Analyzing patent databases; Conducting market research.
+       * Assisting the PI in the preparation of various techno-commercial reports.  
 
 * June 2020 to present : **Research Associate** 
   * at [Tambourine Innovation Ventures Inc](https://www.tivinc.com/)    Vienna,VA,USA.
@@ -18,11 +27,4 @@ Bank, OECD, UNIDO, US Dept of Energy, etc.
        * Conducting market research (royalty comparables, license terms, term sheets for VCs) *
 
 
-* Feb 2021 to present : **Research Assistant** 
-  * at Indian Council of Medical Research   <p style='text-align: right;'> New Delhi,Inida </p>
-     * ICMR is the Indian equivalent of the US National Institute of health. ICMR has funded our research, and I am working on designing and
-       * Prototyping an airway management robot under an anesthetist.
-       * Designing and prototyping an airway management robot.
-       * Developing Hardware and Software control systems for the robot.
-       * Analyzing patent databases; Conducting market research.
-       * Assisting the PI in the preparation of various techno-commercial reports.       
+     
