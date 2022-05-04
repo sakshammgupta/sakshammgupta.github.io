@@ -11,7 +11,7 @@ author_profile: true
        * **Led a team of 20+ students**; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to
 computer programming.
        * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
-       <img src=https://raw.githubussercontent.com/sakshammgupta/sakshammgupta.github.io/8a59072d0fc25eaaf47fa71a878f1321e02e71fe/files/IGVC.jpg>
+       <img src="https://raw.githubussercontent.com/sakshammgupta/sakshammgupta.github.io/8a59072d0fc25eaaf47fa71a878f1321e02e71fe/files/IGVC.jpg">
        
      
 * **An open, easily replicable & modular design for a regenerative aqua pump,**
