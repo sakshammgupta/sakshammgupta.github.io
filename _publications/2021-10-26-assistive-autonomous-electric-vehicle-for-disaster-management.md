@@ -6,7 +6,7 @@ excerpt: 'A powerful astute ground vehicle is planned which can perform differen
 date: 2021-10-26
 venue: 'Smart Trends in Computing and Communications. Lecture Notes in Networks and Systems'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-16-4016-2_14'
-citation: 'Gupta, S., Joshi, K. (2022). Assistive Autonomous Electric Vehicle for Disaster Management. In: Zhang, YD., Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. Lecture Notes in Networks and Systems, vol 286. Springer, Singapore.' [DOI](https://doi.org/10.1007/978-981-16-4016-2_14)
+citation: 'Gupta, S., Joshi, K. (2022). Assistive Autonomous Electric Vehicle for Disaster Management. In: Zhang, YD., Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. Lecture Notes in Networks and Systems, vol 286. Springer, Singapore. [DOI](https://doi.org/10.1007/978-981-16-4016-2_14)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
@@ -14,4 +14,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
-Gupta, S., Joshi, K. (2022). Assistive Autonomous Electric Vehicle for Disaster Management. In: Zhang, YD., Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. Lecture Notes in Networks and Systems, vol 286. Springer, Singapore.' [DOI](https://doi.org/10.1007/978-981-16-4016-2_14)
+Gupta, S., Joshi, K. (2022). Assistive Autonomous Electric Vehicle for Disaster Management. In: Zhang, YD., Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. Lecture Notes in Networks and Systems, vol 286. Springer, Singapore. [DOI](https://doi.org/10.1007/978-981-16-4016-2_14)'
