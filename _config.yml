@@ -187,7 +187,7 @@ collections:
   blog-posts:
     output: true
     permalink: /:collection/:path/
-  blog-posts:
+  publications:
     output: true
     permalink: /:collection/:path/
 
