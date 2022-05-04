@@ -47,7 +47,10 @@ rooms.
       * Designed a modular, component-based AUV system for performing a multitude of tasks - SLAM based navigation & planning; visual
 identification of key zones/areas in the robot vicinity; acoustics (hydrophones, DVL) based localization & performing various
 decommissioning tasks with the help of a 6-DOF robotic arm.
+<img src=https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme.jpg>
 <img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/2d77d00e395cd57f60951b0293114f41e8d72212/files/SAUVC_2018_1.jpg">
+<img src=https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/c395d849c859511a836efeac61fe02171a5ba9f3/files/SAUVC_2018_2.jpg>
+
 
 * **Student race car with a carbon fiber chassis, Formula Bharat (India) 2017** 
   * Aug 2016 – Jul 2017
@@ -55,6 +58,7 @@ decommissioning tasks with the help of a 6-DOF robotic arm.
       * The first foray into building intelligent vehicles (products) - developed an understanding of all technical aspects such as racing car
 vehicle dynamics, aerodynamics, impact attenuation, fatigue testing, designing parts at micro-scale & integrating at the macro
 (systems engineering), design of exhausts, steering, suspensions, etc.
+<img src=https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/blob/c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme-motorsports-at-formula-bharat-2017.jpg>
 
 * **Soft Robotic Pneumatic Arm,**
   * for Undergraduate Course - Electro Mechanical Workshop Project
