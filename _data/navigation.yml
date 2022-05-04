@@ -3,6 +3,9 @@ main:
   - title: "Education"
     url: /education/
 
+ - title: "Publication"
+    url: /publication/
+    
   - title: "Work Experience"
     url: /work-experience/  
     
