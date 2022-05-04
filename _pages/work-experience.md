@@ -19,7 +19,7 @@ Bank, OECD, UNIDO, US Dept of Energy, etc.
 
 ======
 * Feb 2021 to present : **Research Assistant** 
-  * Research Assistant, Indian Council of Medical Research  | New Delhi, India
+  * at Indian Council of Medical Research  | New Delhi, India
 ICMR is the Indian equivalent of the US National Institute of health. ICMR has funded our research, and I am working on designing and
        * Prototyping an airway management robot under an anesthetist.
        * Designing and prototyping an airway management robot.
