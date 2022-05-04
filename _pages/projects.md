@@ -11,7 +11,7 @@ author_profile: true
        * **Led a team of 20+ students**; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to
 computer programming.
        * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
-       <img src="https://github.com/sakshammgupta/sakshammgupta.github.io/blob/2d77d00e395cd57f60951b0293114f41e8d72212/files/SAUVC_2018_1.jpg">
+       
      
 * **An open, easily replicable & modular design for a regenerative aqua pump,**
   * Final Year Undergraduate Project
@@ -47,6 +47,7 @@ rooms.
       * Designed a modular, component-based AUV system for performing a multitude of tasks - SLAM based navigation & planning; visual
 identification of key zones/areas in the robot vicinity; acoustics (hydrophones, DVL) based localization & performing various
 decommissioning tasks with the help of a 6-DOF robotic arm.
+<img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/2d77d00e395cd57f60951b0293114f41e8d72212/files/SAUVC_2018_1.jpg">
 
 * **Student race car with a carbon fiber chassis, Formula Bharat (India) 2017** 
   * Aug 2016 – Jul 2017
