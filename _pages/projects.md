@@ -36,6 +36,7 @@ launch on an upcoming PSLV rocket (in Q3 2022).
 attached).
       *  Performed various regression & stress tests on the payload - thermovac, vibrations, signal encryption & attenuation in Class 1 clean
 rooms.
+<img src=https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/df2a3ebe3fbd5024a2dfd6cfd190b867dd27c6bc/files/NIS.jpg>
 
 * **Singapore Autonomous Underwater Vehicle Challenge 2018 & 2019,**
   * Team Captain
