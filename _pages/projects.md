@@ -58,7 +58,7 @@ decommissioning tasks with the help of a 6-DOF robotic arm.
       * The first foray into building intelligent vehicles (products) - developed an understanding of all technical aspects such as racing car
 vehicle dynamics, aerodynamics, impact attenuation, fatigue testing, designing parts at micro-scale & integrating at the macro
 (systems engineering), design of exhausts, steering, suspensions, etc.
-<img src=https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/blob/c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme-motorsports-at-formula-bharat-2017.jpg>
+<img src=https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme-motorsports-at-formula-bharat-2017.jpg>
 
 * **Soft Robotic Pneumatic Arm,**
   * for Undergraduate Course - Electro Mechanical Workshop Project
