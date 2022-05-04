@@ -1,5 +1,5 @@
 ---
-title: "2021-10-26-assistive-autonomous-electric-vehicle-for-disaster-management.md"
+title: "2021-10-26 Assistive Autonomous Electric Vehicle For Disaster Management"
 collection: publications
 permalink: /publication/2021-10-26-Assistive Autonomous Electric Vehicle for Disaster Management
 excerpt: 'A powerful astute ground vehicle is planned which can perform different errands like recognizing objects and evading the articles self-rulingly, and furthermore, it can distinguish paths to move itself whenever needed to ride on a street. The vehicle comprises sensors and camera to identify objects to evade them, and it can likewise move on a predefined way because of the utilization of GPS framework on the vehicle. It may be utilized in the midst of catastrophe to help individuals by checking and identifying presence of harmed individuals in a huge region and giving them fundamentals. It can likewise be utilized as a conveyance vehicle in the midst of pandemic like COVID-19 where contactless conveyance of fundamental merchandise should be finished'
