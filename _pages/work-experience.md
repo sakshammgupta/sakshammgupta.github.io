@@ -8,7 +8,7 @@ author_profile: true
 Work experience
 ======
 * June 2020 to present : **Research Associate** 
-  * at *[Tambourine Innovation Ventures Inc](https://www.tivinc.com/)*.
+  * at *[Tambourine Innovation Ventures Inc](https://www.tivinc.com/)*               Vienna,VA,USA.
     * Tambourine Innovation Ventures (TIV) is an innovation advisory and venture acceleration firm dedicated to poverty alleviation and
 sustainable growth through technology based economic development. It works with prestigious international clients such as the World
 Bank, OECD, UNIDO, US Dept of Energy, etc. 
