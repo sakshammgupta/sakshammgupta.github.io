@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 * Feb 2021 to present : **Research Assistant** 
-  * at Indian Council of Medical Research    <div align="right">
-  Nd
+  * at Indian Council of Medical Research    <div align="right"> Nd
 </div>
      * ICMR is the Indian equivalent of the US National Institute of health. ICMR has funded our research, and I am working on designing and
        * Prototyping an airway management robot under an anesthetist.
