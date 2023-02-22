@@ -22,7 +22,7 @@ author_profile: true
    <iframe
     width="640"
     height="480"
-    src="https://youtu.be/l8IIAYD22RQ"
+    src="https://www.youtube.com/embed?v=l8IIAYD22RQ"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
