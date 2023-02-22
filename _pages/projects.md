@@ -4,6 +4,33 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+* **Drone Pollination(ongoing)**
+
+
+* **Adaptive Fault Tolerant Control of a Hexacopter UAV**
+  * video coming soon
+
+* **Robust Aerial Grasping with a Bistable Gripper and Adaptive Control**
+  * video coming soon
+
+* **Robotic Intubation with Carina Tracking and ETT Placment** 
+  * video coming soon
+
+* **Aerial Manipulation for Pick and Place**,
+  * An adaptive sliding mode controller has been used on aerial manipulator to pick and place a payload
+   {% include youtube.html id="l8IIAYD22RQ" %}
+   <iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/l8IIAYD22RQ"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+
+
 * **Intelligent (Environment Aware) Autonomous Vehicle**,
   * for IGVC (Intelligent Ground Vehicle Competition), organized by RoboNation
   * Aug 2019 – Jun 2020
@@ -11,7 +38,7 @@ author_profile: true
        * **Led a team of 20+ students**; oversaw all major aspects of the product's (robot's) development from manufacturing to electronics to
 computer programming.
        * Developed a fully compliant all-terrain vehicle for autonomous motion tracking; path planning & traversal.
-       <img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/8a59072d0fc25eaaf47fa71a878f1321e02e71fe/files/IGVC.jpg">
+       <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@8a59072d0fc25eaaf47fa71a878f1321e02e71fe/files/IGVC.jpg">
        
      
 * **An open, easily replicable & modular design for a regenerative aqua pump,**
@@ -37,7 +64,7 @@ launch on an upcoming PSLV rocket (in Q3 2022).
 attached).
       *  Performed various regression & stress tests on the payload - thermovac, vibrations, signal encryption & attenuation in Class 1 clean
 rooms.
-<img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/df2a3ebe3fbd5024a2dfd6cfd190b867dd27c6bc/files/NIS.jpg">
+<img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@df2a3ebe3fbd5024a2dfd6cfd190b867dd27c6bc/files/NIS.jpg">
 
 * **Singapore Autonomous Underwater Vehicle Challenge 2018 & 2019,**
   * Jun 2017 – Jul 2019
@@ -48,9 +75,9 @@ rooms.
       * Designed a modular, component-based AUV system for performing a multitude of tasks - SLAM based navigation & planning; visual
 identification of key zones/areas in the robot vicinity; acoustics (hydrophones, DVL) based localization & performing various
 decommissioning tasks with the help of a 6-DOF robotic arm.
-<img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme.jpg">
-<img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/2d77d00e395cd57f60951b0293114f41e8d72212/files/SAUVC_2018_1.jpg">
-<img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/c395d849c859511a836efeac61fe02171a5ba9f3/files/SAUVC_2018_2.jpg">
+<img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme.jpg">
+<img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@2d77d00e395cd57f60951b0293114f41e8d72212/files/SAUVC_2018_1.jpg">
+<img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@c395d849c859511a836efeac61fe02171a5ba9f3/files/SAUVC_2018_2.jpg">
 
 
 * **Student race car with a carbon fiber chassis, Formula Bharat (India) 2017** 
@@ -59,7 +86,7 @@ decommissioning tasks with the help of a 6-DOF robotic arm.
       * The first foray into building intelligent vehicles (products) - developed an understanding of all technical aspects such as racing car
 vehicle dynamics, aerodynamics, impact attenuation, fatigue testing, designing parts at micro-scale & integrating at the macro
 (systems engineering), design of exhausts, steering, suspensions, etc.
-<img src="https://raw.githubusercontent.com/sakshammgupta/sakshammgupta.github.io/c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme-motorsports-at-formula-bharat-2017.jpg">
+<img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@c395d849c859511a836efeac61fe02171a5ba9f3/files/mpstme-motorsports-at-formula-bharat-2017.jpg">
 
 * **Soft Robotic Pneumatic Arm,**
   * for Undergraduate Course - Electro Mechanical Workshop Project
