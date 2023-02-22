@@ -18,7 +18,7 @@ author_profile: true
 
 * **Aerial Manipulation for Pick and Place**,
   * An adaptive sliding mode controller has been used on aerial manipulator to pick and place a payload
-   {% include youtube.html id="l8IIAYD22RQ" %}
+   
    <iframe
     width="640"
     height="480"
