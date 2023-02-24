@@ -11,16 +11,16 @@ author_profile: true
   * video coming soon
 
 * **Robust Aerial Grasping with a Bistable Gripper and Adaptive Control**
-  * video coming soon
+  * An adaptive sliding mode controller has been used on aerial manipulator to pick and place a payload
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/l8IIAYD22RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * **Robotic Intubation with Carina Tracking and ETT Placment** 
   * video coming soon
 
-* **Aerial Manipulation for Pick and Place**,
-  * An adaptive sliding mode controller has been used on aerial manipulator to pick and place a payload
+* **SEA based aerial manipulator**,
+  * Series Elastic Actuator (SEA) based aerial manipulator is used for shock absorbance during the hammering
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7pBdOic_Fc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/l8IIAYD22RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 
 * **Intelligent (Environment Aware) Autonomous Vehicle**,
