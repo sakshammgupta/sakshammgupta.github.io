@@ -4,22 +4,25 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-* **Drone Pollination(ongoing)**
 
+* **Robotic Intubation with Carina Tracking and ETT Placment** 
+  * video coming soon
 
 * **Adaptive Fault Tolerant Control of a Hexacopter UAV**
-  * video coming soon
+  * <iframe width="560" height="315" src="https://www.youtube.com/embed/XworLAxOADQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * **Robust Aerial Grasping with a Bistable Gripper and Adaptive Control**
   * An adaptive sliding mode controller has been used on aerial manipulator to pick and place a payload
      <iframe width="560" height="315" src="https://www.youtube.com/embed/l8IIAYD22RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* **Robotic Intubation with Carina Tracking and ETT Placment** 
-  * video coming soon
+
 
 * **SEA based aerial manipulator**,
   * Series Elastic Actuator (SEA) based aerial manipulator is used for shock absorbance during the hammering
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7pBdOic_Fc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* **Drone Pollination(ongoing)**
+<img src=https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@408ef8167345f7669be81d9dea13845f739b0695/files/2.jpg>
    
 
 
