@@ -21,9 +21,6 @@ author_profile: true
   * Series Elastic Actuator (SEA) based aerial manipulator is used for shock absorbance during the hammering
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7pBdOic_Fc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* **Drone Pollination(ongoing)**
-  <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@408ef8167345f7669be81d9dea13845f739b0695/files/2.jpg">
-   
 
 
 * **Intelligent (Environment Aware) Autonomous Vehicle**,
