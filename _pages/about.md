@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-MS Student, looking forward to make my mark in the world. Robotics enthusiast, love building things on a daily basis.
+M.S. Student and Ph.D. aspirant looking to make my mark in the world. Robotics enthusiast, love building things on a daily basis.
 
-Since our lives are changing in unimaginable ways post-pandemic; I'd wager Robotics to play a much larger role in our day-to-day lives a couple of years down. Working on multiple projects to achieve this vision - get in touch with me if you have something exciting to discuss [(or if you just want to connect!)](https://www.linkedin.com/in/sakshammgupta/)
+Our lives are changing in unimaginable ways due to inexorable forces such as climate change and rapid technological advances. I wager that Robotics will play a much larger role in the economy and our day-to-day lives much sooner that we expect. I am always working on multiple projects to achieve this vision - get in touch with me if you have something exciting to discuss [(or if you just want to connect!)](https://www.linkedin.com/in/sakshammgupta/)
+
 
 
