@@ -10,7 +10,7 @@ author_profile: true
       * The Robotics Research Center (RRC) is a part of the International Institute of Information Technology (IIIT) in Hyderabad, India. The lab aims to work on research problems and innovative projects that extend the state of the art in robotics.
 
         * Currently working on aerial manipulators, Continuum robots, and non-linear controls.(Research Funded by NSF & DST)
-         * Designed and fabricated a Drone pollinator with modular soft bristles for varying crop types.
+         * Designed and fabricated a Drone pollinator with modular soft bristles for varying crop types.(Research Funded by [IHFC](https://www.ihfc.co.in/))
 
 * Aug 2020 to present : **Research Associate** 
   * at **[Tambourine Innovation Ventures Inc](https://www.tivinc.com/)**    (Vienna,VA,USA)
