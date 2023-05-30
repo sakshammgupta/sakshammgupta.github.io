@@ -9,19 +9,20 @@ author_profile: true
   * video coming soon
 
 
-* **Dynamic Grasping using bistable gripper and Adaptive Control(without a priori knowledge of the bounds)**
+* **Dynamic Grasping using bistable gripper and Adaptive Control(without a priori knowledge of the bounds)** ([link](https://www.youtube.com/embed/ZXfHihvZ8Qw))
+
     * <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXfHihvZ8Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* **Adaptive Fault Tolerant Control of a Hexacopter UAV**
+* **Adaptive Fault Tolerant Control of a Hexacopter UAV**  ([link](https://www.youtube.com/embed/XworLAxOADQ))
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/XworLAxOADQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* **Robust Aerial Grasping with a Bistable Gripper and Adaptive Control**
+* **Robust Aerial Grasping with a Bistable Gripper and Adaptive Control**  ([link](https://www.youtube.com/embed/l8IIAYD22RQ))
   * An adaptive controller has been used on aerial manipulator to pick and place a payload
      <iframe width="560" height="315" src="https://www.youtube.com/embed/l8IIAYD22RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
-* **SEA based aerial manipulator**,
+* **SEA based aerial manipulator** ([link](https://www.youtube.com/embed/7pBdOic_Fc4))
   * Series Elastic Actuator (SEA) based aerial manipulator is used for shock absorbance during the hammering
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7pBdOic_Fc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
