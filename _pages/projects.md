@@ -8,11 +8,15 @@ author_profile: true
 * **Robotic Intubation with Carina Tracking and ETT Placment** 
   * video coming soon
 
+
+* **Dynamic Grasping using bistable gripper and Adaptive Control**
+    * <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXfHihvZ8Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 * **Adaptive Fault Tolerant Control of a Hexacopter UAV**
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/XworLAxOADQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * **Robust Aerial Grasping with a Bistable Gripper and Adaptive Control**
-  * An adaptive sliding mode controller has been used on aerial manipulator to pick and place a payload
+  * An adaptive controller has been used on aerial manipulator to pick and place a payload
      <iframe width="560" height="315" src="https://www.youtube.com/embed/l8IIAYD22RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
