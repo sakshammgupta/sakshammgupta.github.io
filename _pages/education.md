@@ -4,7 +4,7 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
- ***MS***, International Institute of Information Technology - Hyderabad(IIITH), 
+ ***MS by Research in ECE***, International Institute of Information Technology - Hyderabad(IIITH), 
 
 
  ***Bachelor of Technology in Mechatronics Engineering***, Narsee Monjee Institute of Management Studies(NMIMS), 2020
