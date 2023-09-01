@@ -15,4 +15,4 @@ author_profile: true
 
 * **[Rules For Mathematical Writing](https://drive.google.com/file/d/1d_75eaFyvULBM1IdYoLvb8H5WsfzaEQb/view?usp=drive_link)**
 
-* **[So you want to pursue Ph.D.? by Panagiotis Tsiotras(Faculty at GeorgiaTech)](https://drive.google.com/file/d/1bdrbM_7_TN8oDk7tjn3-XNrPAsWG_gVt/view?usp=drive_link)**
+* **[So.. you want to get a Ph.D.? by Panagiotis Tsiotras(Faculty at GeorgiaTech)](https://drive.google.com/file/d/1bdrbM_7_TN8oDk7tjn3-XNrPAsWG_gVt/view?usp=drive_link)**
