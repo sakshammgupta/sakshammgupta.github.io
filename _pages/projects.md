@@ -9,9 +9,9 @@ author_profile: true
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-* **Dynamic Grasping using bistable gripper and Adaptive Control(without a priori knowledge of the bounds)** ([link](https://www.youtube.com/embed/ZXfHihvZ8Qw))
-
-    * <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXfHihvZ8Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+* **An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper with Adaptive Control** ([Video link](https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU))
+ ([Manuscript Link(Under Review)](https://arxiv.org/pdf/2311.00769.pdf))
+    * <iframe width="560" height="315" src="https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **Adaptive Fault Tolerant Control of a Hexacopter UAV**  ([link](https://www.youtube.com/embed/XworLAxOADQ))
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/XworLAxOADQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
