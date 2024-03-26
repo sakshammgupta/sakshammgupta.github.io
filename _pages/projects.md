@@ -5,8 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-* **Robotic Intubation with Carina Tracking and ETT Placment** 
-  * video coming soon
+* **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB))
+  * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 * **Dynamic Grasping using bistable gripper and Adaptive Control(without a priori knowledge of the bounds)** ([link](https://www.youtube.com/embed/ZXfHihvZ8Qw))
