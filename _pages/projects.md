@@ -8,12 +8,12 @@ author_profile: true
 * **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([Manuscript Link(Submitted to IROS 2024)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* **An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper with Adaptive Control**([Manuscript Link(Submitted to CASE 2024)](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))
-    *  <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@c395d849c859511a836efeac61fe02171a5ba9f3/files/plot_loe.jpg">
+* **Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics**([Manuscript Link(Submitted to CASE 2024)](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))
+    *  <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@5dbbd1a6debb4e889644011105ff3ad4d6cb788c/files/plot_loe.jpg">
 
 
 * **An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper with Adaptive Control** ([Video link](https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU))
- ([Manuscript Link(Under Review)](https://arxiv.org/pdf/2311.00769.pdf))
+ ([Manuscript Link(Under Review - TMECH)](https://arxiv.org/pdf/2311.00769.pdf))
     * <iframe width="560" height="315" src="https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **Drone Pollination for paddy crops(Commercialized)**  ([link](https://www.youtube.com/embed/-2zFdymDCY0?si=Ww0zTmk1lWrx904f))
@@ -22,11 +22,6 @@ author_profile: true
 
 * **Adaptive Fault Tolerant Control of a Hexacopter UAV**  ([link](https://www.youtube.com/embed/XworLAxOADQ))
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/XworLAxOADQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-* **Robust Aerial Grasping with a Bistable Gripper and Adaptive Control**  ([link](https://www.youtube.com/embed/l8IIAYD22RQ))
-  * An adaptive controller has been used on aerial manipulator to pick and place a payload
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/l8IIAYD22RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 
 * **SEA based aerial manipulator** ([link](https://www.youtube.com/embed/7pBdOic_Fc4))
