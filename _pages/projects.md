@@ -8,7 +8,7 @@ author_profile: true
 * **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([Manuscript Link(Submitted to IROS 2024)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  * **An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper with Adaptive Control**([Manuscript Link(Submitted to CASE 2024)](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))
+* **An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper with Adaptive Control**([Manuscript Link(Submitted to CASE 2024)](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))
     *  <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@c395d849c859511a836efeac61fe02171a5ba9f3/files/plot_loe.jpg">
 
 
