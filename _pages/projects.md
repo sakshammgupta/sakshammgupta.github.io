@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-* **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB))
+* **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([Manuscript Link(Submitted to IROS 2024)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
