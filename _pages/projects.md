@@ -4,6 +4,9 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+* **A Switched Adaptive Control Framework for Aerial Manipulators Under Dynamic Transitions** ([Video link](https://www.youtube.com/watch?v=wJl6zqWuQD8))
+ ([Manuscript Link(WORK IN PROGRESS)](https://drive.google.com/file/d/1hNUjtlXK6kqUJfiZE4ozkL4JUua4xUMP/view?usp=drive_link))
+    * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/wJl6zqWuQD8" title="Switched Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **Impedance and Stability Targeted Adaptation forAerial Manipulator with Unknown Coupling Dynamics** ([Video link](https://www.youtube.com/watch?v=GgfZDljI8F4))
  ([Manuscript Link(Under Review - IROS 2025)](https://drive.google.com/file/d/1v-u54lI25kfiKgLVZrGSfYq2VXt7vrgJ/view?usp=drive_link))
