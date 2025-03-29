@@ -4,6 +4,9 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+* **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([Manuscript Link(IEEE IROS 2025)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
+  * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * **A Switched Adaptive Control Framework for Aerial Manipulators Under Dynamic Transitions** ([Video link](https://www.youtube.com/watch?v=wJl6zqWuQD8))
  ([Manuscript Link(WORK IN PROGRESS)](https://drive.google.com/file/d/1hNUjtlXK6kqUJfiZE4ozkL4JUua4xUMP/view?usp=drive_link))
     * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/wJl6zqWuQD8" title="Switched Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -11,9 +14,6 @@ author_profile: true
 * **Impedance and Stability Targeted Adaptation forAerial Manipulator with Unknown Coupling Dynamics** ([Video link](https://www.youtube.com/watch?v=GgfZDljI8F4))
  ([Manuscript Link(Under Review - IROS 2025)](https://drive.google.com/file/d/1v-u54lI25kfiKgLVZrGSfYq2VXt7vrgJ/view?usp=drive_link))
     * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/GgfZDljI8F4" title="Impedance and Stability Targeted Adaptation for Aerial Manipulator with Unknown Coupling Dynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-* **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([Manuscript Link(IEEE RAL under Review)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
-  * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics**([Manuscript Link(IEEE CASE 2024)](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))
     *S. Gupta, A. Sharma, A. Mulgundkar, R. D. Yadav and S. Roy, "Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics," 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), Bari, Italy, 2024, pp. 717-722, doi: 10.1109/CASE59546.2024.10711418.
