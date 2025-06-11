@@ -4,11 +4,15 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+* **Achieving Adaptive Impedance Control for Autonomous Aerial Manipulation under Unknown Dynamics** ([TMECH Under Review]( https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing)) (First Shared Author)
+  
+
+
 * **Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module** ([link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([Manuscript Link(IEEE IROS 2025)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **A Switched Adaptive Control Framework for Aerial Manipulators Under Dynamic Transitions** ([Video link](https://www.youtube.com/watch?v=wJl6zqWuQD8))
- ([Manuscript Link(WORK IN PROGRESS)](https://drive.google.com/file/d/1ufUa1M_kQxVTgZTGtV_gk1-eRwLBzJ4x/view?usp=sharing))
+ ([TRO Under Review)](https://drive.google.com/file/d/1ufUa1M_kQxVTgZTGtV_gk1-eRwLBzJ4x/view?usp=sharing)) (First Shared Author)
     * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/wJl6zqWuQD8" title="Switched Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **Impedance and Stability Targeted Adaptation forAerial Manipulator with Unknown Coupling Dynamics** ([Video link](https://www.youtube.com/watch?v=GgfZDljI8F4))
