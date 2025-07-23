@@ -62,8 +62,7 @@ doi: [10.1109/CASE59546.2024.10711418](https://doi.org/10.1109/CASE59546.2024.10
 
 * **S. Gupta\***, S. Mishra\*, A. Ayub, K. Farooque, S. Roy, and B. Gupta,  
 "**Bab Sak Robotic Intubation System (BRIS): A Novel Endotracheal Intubation System with an Integrated Monocular Carinal Measurement Module**",  
-*1st International Workshop on the Evolving Landscape of Surgical Robotics (ELSR 2025): Towards AI-Powered Unconventional Instruments and Technologies in the Operating Theatre*,  
-May 19th, 2025, held in conjunction with the *IEEE International Conference on Robotics and Automation (ICRA)*, Atlanta, United States.  [Workshop Website](https://sites.google.com/view/icra2025-workshop-clsr)
+*1st International Workshop on the Evolving Landscape of Surgical Robotics (ELSR 2025): Towards AI-Powered Unconventional Instruments and Technologies in the Operating Theatre*,  *IEEE International Conference on Robotics and Automation (ICRA)*, Atlanta, United States.  [Workshop Website](https://sites.google.com/view/icra2025-workshop-clsr)
 
 
 
