@@ -7,7 +7,7 @@ author_profile: true
 
 * \* denotes equal authorship.
 
-* A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics*,.([TMECH Under Review]( https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing)) 
+* A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics*.([**Under Review**]( https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing)) 
   
 
 
