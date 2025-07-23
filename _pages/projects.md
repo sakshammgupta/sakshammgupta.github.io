@@ -7,6 +7,12 @@ author_profile: true
 
 * \* denotes equal authorship.
 
+* R. D. Yadav\*, B. Jones\*, **S. Gupta\***, A. Sharma, J. Sun, S. Roy, and J. Zhao, "An integrated approach to aerial grasping: Combining a bistable gripper with adaptive control,"  *IEEE/ASME Transactions on Mechatronics*,.
+ ([Video link](https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU))
+ ([Manuscript Link(Under Review - TMECH)](https://drive.google.com/file/d/15wGl00kfqboGO2DJFDiC9n_MhjIcH8rD/view?usp=sharing))
+    * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/rSDOYl5RXrc" title="An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper with Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 * A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics*, **under review**.([**Manuscript Link**]( https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing)) 
   
 
@@ -27,9 +33,7 @@ author_profile: true
     *  <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@5dbbd1a6debb4e889644011105ff3ad4d6cb788c/files/plot_loe.jpg">
 
 
-* **An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper with Adaptive Control** ([Video link](https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU))
- ([Manuscript Link(Under Review - TMECH)](https://drive.google.com/file/d/15wGl00kfqboGO2DJFDiC9n_MhjIcH8rD/view?usp=sharing))
-    * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/rSDOYl5RXrc" title="An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper with Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 * **Drone Pollination for paddy crops(Commercialized)**  ([link](https://www.youtube.com/embed/-2zFdymDCY0?si=Ww0zTmk1lWrx904f))
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/-2zFdymDCY0?si=Ww0zTmk1lWrx904f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
