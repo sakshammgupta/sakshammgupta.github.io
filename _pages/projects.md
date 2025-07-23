@@ -18,7 +18,7 @@ author_profile: true
 "Bab\_Sak Robotic Intubation System (BRIS): A novel endotracheal intubation system with an integrated monocular carinal measurement module," *IEEE Transactions on Medical Robotics and Bionics*, **under review**.  
 ([Video link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB))  
 ([**Manuscript Link**](https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing))  
-  * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  * <iframe width="320" height="180" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
