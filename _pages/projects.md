@@ -9,28 +9,38 @@ author_profile: true
 
 * R. D. Yadav\*, B. Jones\*, **S. Gupta\***, A. Sharma, J. Sun, S. Roy, and J. Zhao, "An integrated approach to aerial grasping: Combining a bistable gripper with adaptive control,"  *IEEE/ASME Transactions on Mechatronics*,.
  ([Video link](https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU))
- ([Manuscript Link(Under Review - TMECH)](https://drive.google.com/file/d/15wGl00kfqboGO2DJFDiC9n_MhjIcH8rD/view?usp=sharing))
+ ([**Manuscript Link**](https://drive.google.com/file/d/15wGl00kfqboGO2DJFDiC9n_MhjIcH8rD/view?usp=sharing))
     * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/rSDOYl5RXrc" title="An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper with Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
+
 * A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics*, **under review**.([**Manuscript Link**]( https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing)) 
 
 ---
+
+
 * **S. Gupta**\*, S. Mishra\*, A. Mittal, A. Ayub, K. Farooque, S. Roy, and B. Gupta,  "Bab\_Sak Robotic Intubation System (BRIS): A novel endotracheal intubation system with an integrated monocular carinal measurement module,"  *IEEE Transactions on Medical Robotics and Bionics*, **under review**.([Video link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([**Manuscript Link**)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
+
 * **S. Gupta**\*, R. D. Yadav\*, A. Sharma, S. Roy, S. Baldi, and W. Pan,  "A switched adaptive control framework for aerial manipulators under dynamic transitions,"  *IEEE Transactions on Robotics*, **under review**. ([**Manuscript Link**]( https://drive.google.com/file/d/1ufUa1M_kQxVTgZTGtV_gk1-eRwLBzJ4x/view?usp=sharing))([Video link](https://www.youtube.com/watch?v=wJl6zqWuQD8))
  
     * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/wJl6zqWuQD8" title="Switched Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
+
 * A. Sharma, **S. Gupta**, S. P. Singh, R. D. Yadav, H. Song, W. Pan, S. Roy, and S. Baldi,  "Impedance and stability targeted adaptation for aerial manipulator with unknown coupling dynamics,"  *IEEE International Conference on Control, Automation and Systems (ICCAS)*, **under review**.
 ([Video link](https://www.youtube.com/watch?v=GgfZDljI8F4))
- ([Manuscript Link](https://drive.google.com/file/d/1v-u54lI25kfiKgLVZrGSfYq2VXt7vrgJ/view?usp=drive_link))
+ ([**Manuscript Link**](https://drive.google.com/file/d/1v-u54lI25kfiKgLVZrGSfYq2VXt7vrgJ/view?usp=drive_link))
     * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/GgfZDljI8F4" title="Impedance and Stability Targeted Adaptation for Aerial Manipulator with Unknown Coupling Dynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* **S. Gupta**, A. Sharma, A. Mulgundkar, R. D. Yadav and S. Roy, "Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics," 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), Bari, Italy, 2024, pp. 717-722, doi: 10.1109/CASE59546.2024.10711418.([Manuscript Link(IEEE CASE 2024)](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))
+---
+
+* **S. Gupta**, A. Sharma, A. Mulgundkar, R. D. Yadav and S. Roy, "Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics," 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), Bari, Italy, 2024, pp. 717-722, doi: 10.1109/CASE59546.2024.10711418.([**Manuscript Link**](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))
     *  <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@5dbbd1a6debb4e889644011105ff3ad4d6cb788c/files/plot_loe.jpg">
 
-
+---
 
 
 * **Drone Pollination for paddy crops(Commercialized)**  ([link](https://www.youtube.com/embed/-2zFdymDCY0?si=Ww0zTmk1lWrx904f))
