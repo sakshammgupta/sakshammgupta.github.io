@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-* \* denotes equal authorship.
+* **\* denotes equal authorship.**
 
 ### 📝 **Preprints / Under Review**
 
@@ -40,20 +40,20 @@ author_profile: true
 
 ### 📘 **Published**
 
-* **S. Gupta**, A. Sharma, A. Mulgundkar, R. D. Yadav, and S. Roy,  
-"Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics," *2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)*, Bari, Italy, 2024, pp. 717–722.  
-doi: [10.1109/CASE59546.2024.10711418](https://doi.org/10.1109/CASE59546.2024.10711418)  
-([**Manuscript Link**](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))  
-  * <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@5dbbd1a6debb4e889644011105ff3ad4d6cb788c/files/plot_loe.jpg">
-
----
-
 * R. D. Yadav\*, B. Jones\*, **S. Gupta\***, A. Sharma, J. Sun, S. Roy, and J. Zhao,  
 "An integrated approach to aerial grasping: Combining a bistable gripper with adaptive control," *IEEE/ASME Transactions on Mechatronics*,  
 [https://doi.org/10.1109/TMECH.2025.3586888](https://doi.org/10.1109/TMECH.2025.3586888).  
 ([Video link](https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU))  
 ([**Manuscript Link**](https://drive.google.com/file/d/15wGl00kfqboGO2DJFDiC9n_MhjIcH8rD/view?usp=sharing))  
   * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/rSDOYl5RXrc" title="An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper with Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+* **S. Gupta**, A. Sharma, A. Mulgundkar, R. D. Yadav, and S. Roy,  
+"Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics," *2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)*, Bari, Italy, 2024, pp. 717–722.  
+doi: [10.1109/CASE59546.2024.10711418](https://doi.org/10.1109/CASE59546.2024.10711418)  
+([**Manuscript Link**](https://drive.google.com/file/d/1tN3GadWU8nssYAQR9cdrJGqLhP0vnI2s/view?usp=sharing))  
+  * <img src="https://cdn.jsdelivr.net/gh/sakshammgupta/sakshammgupta.github.io@5dbbd1a6debb4e889644011105ff3ad4d6cb788c/files/plot_loe.jpg">
+
 
 ---
 
