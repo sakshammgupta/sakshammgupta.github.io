@@ -9,6 +9,14 @@ author_profile: true
 
 ### 📝 **Preprints / Under Review**
 
+* A. Sharma, **S. Gupta**, S. P. Singh, R. D. Yadav, H. Song, W. Pan, S. Roy, and S. Baldi,  
+"Impedance and stability targeted adaptation for aerial manipulator with unknown coupling dynamics," *IEEE International Conference on Control, Automation and Systems (ICCAS)*, **under review**.  
+([Video link](https://www.youtube.com/watch?v=GgfZDljI8F4))  
+([**Manuscript Link**](https://drive.google.com/file/d/1v-u54lI25kfiKgLVZrGSfYq2VXt7vrgJ/view?usp=drive_link))  
+  * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/GgfZDljI8F4" title="Impedance and Stability Targeted Adaptation for Aerial Manipulator with Unknown Coupling Dynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 * A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics*, **under review**.  
   ([**Manuscript Link**](https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing))
 
@@ -30,13 +38,7 @@ author_profile: true
 
 ---
 
-* A. Sharma, **S. Gupta**, S. P. Singh, R. D. Yadav, H. Song, W. Pan, S. Roy, and S. Baldi,  
-"Impedance and stability targeted adaptation for aerial manipulator with unknown coupling dynamics," *IEEE International Conference on Control, Automation and Systems (ICCAS)*, **under review**.  
-([Video link](https://www.youtube.com/watch?v=GgfZDljI8F4))  
-([**Manuscript Link**](https://drive.google.com/file/d/1v-u54lI25kfiKgLVZrGSfYq2VXt7vrgJ/view?usp=drive_link))  
-  * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/GgfZDljI8F4" title="Impedance and Stability Targeted Adaptation for Aerial Manipulator with Unknown Coupling Dynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
 
 ### 📘 **Published**
 
