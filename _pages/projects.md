@@ -7,17 +7,18 @@ author_profile: true
 
 * \* denotes equal authorship.
 
-* A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics* **Under Review**.([**Manuscriot Link**]( https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing)) 
+* A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics*, **under review**.([**Manuscript Link**]( https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing)) 
   
 
 
 * **S. Gupta**\*, S. Mishra, A. Mittal, A. Ayub, K. Farooque, S. Roy, and B. Gupta,  
-"Bab Sak Robotic Intubation System (BRIS): A novel endotracheal intubation system with an integrated monocular carinal measurement module,"  
-*IEEE Transactions on Medical Robotics and Bionics*, **under review**.([Video link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([Manuscript Link)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
+"Bab Sak Robotic Intubation System (BRIS): A novel endotracheal intubation system with an integrated monocular carinal measurement module,"  *IEEE Transactions on Medical Robotics and Bionics*, **under review**.([Video link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB)) ([**Manuscript Link**)]( https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing)) 
   * <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* **A Switched Adaptive Control Framework for Aerial Manipulators Under Dynamic Transitions** ([Video link](https://www.youtube.com/watch?v=wJl6zqWuQD8))
- (TRO Under Review)
+* **S. Gupta**\*, R. D. Yadav, A. Sharma, S. Roy, S. Baldi, and W. Pan,  
+"A switched adaptive control framework for aerial manipulators under dynamic transitions,"  *IEEE Transactions on Robotics*, **under review**. ([**Manuscript Link**)]( https://drive.google.com/file/d/1ufUa1M_kQxVTgZTGtV_gk1-eRwLBzJ4x/view?usp=sharing))
+** ([Video link](https://www.youtube.com/watch?v=wJl6zqWuQD8))
+ 
     * <iframe width="1840" height="1035" src="https://www.youtube.com/embed/wJl6zqWuQD8" title="Switched Adaptive Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **Impedance and Stability Targeted Adaptation forAerial Manipulator with Unknown Coupling Dynamics** ([Video link](https://www.youtube.com/watch?v=GgfZDljI8F4))
