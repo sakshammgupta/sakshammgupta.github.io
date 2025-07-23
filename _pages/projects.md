@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: archive
 title: "Projects and Publication"
 permalink: /projects/
 author_profile: true
 ---
-
+<!-- 
 * \* denotes equal authorship.
 
 * R. D. Yadav\*, B. Jones\*, **S. Gupta\***, A. Sharma, J. Sun, S. Roy, and J. Zhao, "An integrated approach to aerial grasping: Combining a bistable gripper with adaptive control,"  *IEEE/ASME Transactions on Mechatronics*,.
@@ -112,13 +112,6 @@ vehicle dynamics, aerodynamics, impact attenuation, fatigue testing, designing p
     * Arm was based on a simple bio-mimetic principle - three tentacle based gripping. -->
 
 
-
----
-layout: archive
-title: "Projects and Publications"
-permalink: /projects/
-author_profile: true
----
 
 <style>
 .two-columns {
@@ -231,5 +224,3 @@ author_profile: true
 
   </div>
 </div>
-
-
