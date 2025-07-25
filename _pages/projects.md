@@ -35,7 +35,8 @@ author_profile: true
 ---
 
 
-### 📘 **Published**
+<h3 style="color:blue;">II. Published</h3>
+
 
 * R. D. Yadav\*, B. Jones\*, **S. Gupta\***, A. Sharma, J. Sun, S. Roy, and J. Zhao, "An integrated approach to aerial grasping: Combining a bistable gripper with adaptive control," *IEEE/ASME Transactions on Mechatronics*, [https://doi.org/10.1109/TMECH.2025.3586888](https://doi.org/10.1109/TMECH.2025.3586888).  
 ([Video link](https://www.youtube.com/embed/SlJcdUKZ0fc?si=4X9ykvfbKPDmDVfU))  
@@ -51,7 +52,8 @@ doi: [10.1109/CASE59546.2024.10711418](https://doi.org/10.1109/CASE59546.2024.10
 
 ---
 
-### 🎤 **Workshops**
+<h3 style="color:blue;">III. Workshops</h3>
+
 
 
 * **S. Gupta\***, S. Mishra\*, A. Ayub, K. Farooque, S. Roy, and B. Gupta,  
@@ -60,7 +62,7 @@ doi: [10.1109/CASE59546.2024.10711418](https://doi.org/10.1109/CASE59546.2024.10
 
 
 
-### Projects
+<h3 style="color:blue;">IV. Projects</h3>
 
 
 * **Drone Pollination for paddy crops(Commercialized)**  ([link](https://www.youtube.com/embed/-2zFdymDCY0?si=Ww0zTmk1lWrx904f))
