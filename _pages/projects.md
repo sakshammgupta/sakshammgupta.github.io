@@ -10,7 +10,7 @@ author_profile: true
 <h3 style="color:blue;">I. Preprints / Under Review</h3>
 
 
-* **S. Mishra**\*, **R. D. Yadav**\*, A. Das, **S. Gupta**, W. Pan, and S. Roy,  
+* S. Mishra\*, R. D. Yadav\*, A. Das, **S. Gupta**, W. Pan, and S. Roy,  
 "AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision-Language Models,"  
 *IEEE Robotics and Automation Letters (RA-L)*, **under review**.  
 ([**Project Website**](https://sites.google.com/view/aermani-vlm))
