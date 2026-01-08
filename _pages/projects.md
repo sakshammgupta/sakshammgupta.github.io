@@ -23,10 +23,10 @@ author_profile: true
 
 ---
 
-* **S. Gupta**\*, S. Mishra\*, A. Mittal, A. Ayub, K. Farooque, S. Roy, and B. Gupta, "Bab\_Sak Robotic Intubation System (BRIS): A novel endotracheal intubation system with an integrated monocular carinal measurement module," *IEEE Transactions on Medical Robotics and Bionics*, **under review**.  
+* **S. Gupta**\*, S. Mishra\*, A. Mittal, A. Ayub, K. Farooque, S. Roy, and B. Gupta, "Bab\_Sak Robotic Intubation System (BRIS):A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation*, **under review**.  
 ([Video link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB))  
-([**Manuscript Link**](https://drive.google.com/file/d/1RXfrhMRRFr-eheoOioEeTk6ctyraAbxT/view?usp=sharing))  
-  * <iframe width="320" height="180" src="https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+([**Manuscript Link**](https://arxiv.org/abs/2512.21983))  ([**Project Website**](https://sites.google.com/view/robotic-intubation/home))
+  * <iframe width="1225" height="689" src="https://www.youtube.com/embed/K1H8mHnGchc" title="Bab Sak Robotic Intubation System (BRIS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
