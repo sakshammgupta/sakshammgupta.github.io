@@ -10,6 +10,13 @@ author_profile: true
 <h3 style="color:blue;">I. Preprints / Under Review</h3>
 
 
+* **S. Gupta**\*, S. Mishra\*, A. Mittal, A. Ayub, K. Farooque, S. Roy, and B. Gupta, "Bab\_Sak Robotic Intubation System (BRIS):A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation"*IEEE Robotics and Automation Letters (RA-L)*, **under review**.  
+([Video link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB))  
+([**Manuscript Link**](https://arxiv.org/abs/2512.21983))  ([**Project Website**](https://sites.google.com/view/robotic-intubation/home))
+  * <iframe width="1225" height="689" src="https://www.youtube.com/embed/K1H8mHnGchc" title="Bab Sak Robotic Intubation System (BRIS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 * S. Mishra\*, R. D. Yadav\*, A. Das, **S. Gupta**, W. Pan, and S. Roy,  
 "AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision-Language Models,"  
 *IEEE Robotics and Automation Letters (RA-L)*, **under review**.  
@@ -23,12 +30,7 @@ author_profile: true
 
 ---
 
-* **S. Gupta**\*, S. Mishra\*, A. Mittal, A. Ayub, K. Farooque, S. Roy, and B. Gupta, "Bab\_Sak Robotic Intubation System (BRIS):A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation"*IEEE Robotics and Automation Letters (RA-L)*, **under review**.  
-([Video link](https://www.youtube.com/embed/fbkcQdIJENM?si=AcVgEixoA31GKTHB))  
-([**Manuscript Link**](https://arxiv.org/abs/2512.21983))  ([**Project Website**](https://sites.google.com/view/robotic-intubation/home))
-  * <iframe width="1225" height="689" src="https://www.youtube.com/embed/K1H8mHnGchc" title="Bab Sak Robotic Intubation System (BRIS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
 
 * A. Sharma\*, **S. Gupta**\*, R. D. Yadav, W. Pan, S. Roy, and S. Baldi, "Achieving adaptive impedance control for autonomous aerial manipulation under unknown dynamics," *IEEE/ASME Transactions on Mechatronics*, **under review**.  
   ([**Manuscript Link**](https://drive.google.com/file/d/1wO4crPUfi6UcrHgZJasuDwjqwqZyXAtd/view?usp=sharing))
