@@ -1,12 +1,11 @@
 # main links links
 main:
-  - title: "Education"
-    url: /education/
+  
     
   - title: "Projects and Publication"
     url: /projects/
             
-            
+
               
   - title: "CV"
     url: /files/Saksham_Gupta_Resume.pdf
